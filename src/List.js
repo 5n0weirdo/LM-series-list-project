@@ -3,13 +3,14 @@ import React from "react";
 const List = ({ series }) => {
   return (
     <>
-      {series.map((ser) => {
-        const { id, name, releaseDate, image, description } = ser;
+      {series.map((item) => {
+        const { id, name, rating, releaseDate, image, description } = item;
         return (
-          <article key={id} className="ser">
+          <article key={id} className="item">
             <img src={image} alt="" />
             <div>
               <h4>{name}</h4>
+              <p>Rating: {rating}</p>
 
               <p>Release data: {releaseDate}</p>
 

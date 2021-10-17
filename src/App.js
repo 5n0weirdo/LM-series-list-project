@@ -20,7 +20,7 @@ function App() {
           Clear All
         </button>
         <button className="btn" onClick={resetItems}>
-          Reset All
+          Refresh All
         </button>
       </section>
     </main>

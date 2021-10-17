@@ -7,6 +7,10 @@ function App() {
     setSeries([]);
   };
 
+  const resetItems = () => {
+    setSeries(data);
+  }
+
   return (
     <main>
       <section className="container">
@@ -15,7 +19,7 @@ function App() {
         <button className="btn" onClick={clearItems}>
           Clear All
         </button>
-        <button className="btn">Reset All</button>
+        <button className="btn" onClick={resetItems}>Reset All</button>
       </section>
     </main>
   );

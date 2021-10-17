@@ -154,24 +154,24 @@ main {
   text-transform: none;
   margin-bottom: 2rem;
 }
-.person {
+.ser {
   display: grid;
   grid-template-columns: auto 1fr;
   column-gap: 0.75rem;
   margin-bottom: 1.5rem;
   align-items: center;
 }
-.person img {
+.ser img {
   width: 75px;
   height: 75px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: var(--light-shadow);
 }
-.person h4 {
+.ser h4 {
   margin-bottom: 0.35rem;
 }
-.person p {
+.ser p {
   margin-bottom: 0;
 }
 .container button {

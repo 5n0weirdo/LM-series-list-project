@@ -10,8 +10,8 @@ function App() {
   return (
     <main>
       <section className="container">
-        <h3>Top 10 Series</h3>
-        <List />
+        <h3>Top {series.length} Series</h3>
+        <List series={series} />
         <button className="btn" onClick={clearItems}>
           Clear All
         </button>

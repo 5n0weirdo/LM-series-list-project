@@ -4,7 +4,7 @@ export default [
     name: "Friends",
     releaseDate: 1994,
     image:
-      "https://res.https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR1,0,140,209_AL_.jpg.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR1,0,140,209_AL_.jpg.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export default [
     name: " Boston Legal ",
     releaseDate: 2004,
     image:
-      "/https://m.media-amazon.com/images/M/MV5BMjEyNjEyMDE5NV5BMl5BanBnXkFtZTcwNzQzNzIzMQ@@._V1_UY209_CR6,0,140,209_AL_.jpg/image/upload/v1586883417/person-3_ipa0mj.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjEyNjEyMDE5NV5BMl5BanBnXkFtZTcwNzQzNzIzMQ@@._V1_UY209_CR6,0,140,209_AL_.jpg/image/upload/v1586883417/person-3_ipa0mj.jpg",
   },
   {
     id: 5,

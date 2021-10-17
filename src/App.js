@@ -15,6 +15,7 @@ function App() {
         <button className="btn" onClick={clearItems}>
           Clear All
         </button>
+        <button className="btn">Reset All</button>
       </section>
     </main>
   );
